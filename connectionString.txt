@@ -1,3 +1,0 @@
-connection string:
-
-optionsBuilder.UseSqlServer(@"Server=LAPTOP-PTTNJ3FI;Database=SchoolCodeFirstDB;Integrated Security=True;Trusted_Connection=True;TrustServerCertificate=True");
